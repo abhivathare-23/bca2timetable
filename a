@@ -1,0 +1,109 @@
+<html>
+<head>
+</head>
+<marquee behavior="alternate">
+<h1><b1> <font color="red"> BCA-II // We Are  Developers // Jaysingpur college , Jaysingpur // </font></b1></h1>
+</marquee>
+<body bgcolor="#fffc00">
+<center>
+<table border="7" cellspacing="16">
+<tr> 
+    <th colspan="16"> - Time Table -</th>
+</tr>
+<tr>
+  <th rowspan="10"> Hours </th>
+<th>Time</th>  
+<th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+</tr>
+ <tr>
+      <td>9.00 to 9.45</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"> </td>
+     <td rowspan="2">PHP LAB </td>
+       <td rowspan="2"> </td> 
+       <td rowspan="2"> </td>
+      <td rowspan="2">RDBMS LAB </td>
+</tr>
+ <tr>
+      <td>9.45 to 10.30</td>
+      
+    
+</tr>
+ <tr>
+      <td> 10.45 to 11.30</td>
+      <td>  </td>
+      <td> </td>
+      <td>DOT NET </td>
+      <td>ED</td>
+      <td>SE</td>
+      <td>RDBMS </td
+</tr>
+
+ <tr>
+      <td>11.30 to 12.15</td>
+      <td>ED </td>
+      <td> ENV</td>
+      <td>RDBMS</td>
+      <td>ENV</td>
+      <td>ENV </td>
+      <td>DOT NET </td>
+</tr>
+ 
+<tr>
+      <td> 12.15 to 1.00</td>
+      <td>  ENV </td>
+      <td> SE </td>
+      <td>  ED   </td>
+   <td rowspan="2">MINI PROJECT </td>
+    <td rowspan="2">DOT NET LAB </td>
+        <td>     </td>  
+</tr>
+<tr>
+      <td>  1.00 to 1.45</td>
+      <td>  DOT NET </td>
+      <td> ED</td>
+      <td>  SE    </td>
+     <td>     </td>
+      
+</tr>
+<tr>
+     <td>1.45 to 2.00</td><th colspan="12">R  E  C  E  S  S</th>
+</tr>
+<tr>
+      <td>  2.00 to 2.45</td>
+      <td>  RDBMS</td>
+      <td> RDBMS </td>
+      <td>     </td>
+      <td>  SE </td>
+      <td>  DOT NET </td>
+      <td>     </td>
+</tr>
+<tr>
+      <td>  2.45 to 3.30</td>
+      <td>   </td>
+      <td>  </td>
+      <td>     </td>
+      <td>    </td>
+      <td>     </td>
+      <td>     </td>
+</tr>
+</table>
+<br>
+<h4><em> <strong><font color="red">Created By Abhishek Vathare - 25 March 2022</font></strong></em></h4>
+</br>
+<a href="info.html"</a>
+<button onclick="info.html">Contact Us</button>
+<br></br>
+<a href="https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg" target="_blank">Learn HTML  Free !</a>
+<br></br>
+<a href="https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR" target="_blank">Learn 'C' Programing !</a>
+<br></br>
+<a href="https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL" target="_blank">Learn " C++ " programing  Free !</a>
+</center>
+</body>
+</html>
